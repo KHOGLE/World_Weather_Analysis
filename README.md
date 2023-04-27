@@ -1,4 +1,4 @@
-## WeatherPy
+## Weather_VacationPy
 
 - LA Ian fixed why my cities were running but not being found for the dataframe
 - https://www.w3schools.com/python/python_functions.asp helped me figure out the line regression function 
